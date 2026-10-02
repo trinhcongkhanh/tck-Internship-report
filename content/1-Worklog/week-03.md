@@ -18,8 +18,6 @@ weight: 3
 | **Monday** | Day 1 | EC2 Provisioning | Launched instances using different AMIs and instance types | Instances running successfully |
 | **Tuesday** | Day 2 | User Data Scripts | Automated Apache web server installation via user data | Web server auto-starts on boot |
 | **Wednesday** | Day 3 | Custom AMIs | Created a golden AMI with pre-installed dependencies | Golden AMI ready for scaling |
-| **Thursday** | Day 4 | Application Load Balancer | Configured ALB and target groups | Traffic distributed evenly across instances |
-| **Friday** | Day 5 | Auto Scaling Group | Attached ASG to ALB with CPU-based scaling policies | Dynamic scaling functional |
 
 ## 3. Technical Skills Learned
 
@@ -29,16 +27,3 @@ weight: 3
 | **Elastic Load Balancing** | ALB listeners, rules, and health checks |
 | **Auto Scaling** | Launch templates and dynamic scaling policies |
 
-## 4. Challenges & Solutions
-
-| Challenge | Solution |
-|---|---|
-| **Health Check Failures** | Fixed ALB health check path from / to /index.html and opened SG port 80 |
-
-## 5. Weekly Reflection
-
-| Category | Description |
-|---|---|
-| **Learning Outcome** | Successfully built a highly available, scalable web architecture |
-| **Improvement Area** | Analyzing cost-efficiency of different EC2 instance types |
-| **Next Step** | Integrate external storage solutions (S3, EFS) |

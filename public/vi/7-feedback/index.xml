@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>7. Đánh Giá &amp; Chia Sẻ on Báo Cáo Thực Tập AWS Cloud</title>
-		<link>/vi/7-feedback/</link>
-		<description>Recent content in 7. Đánh Giá &amp; Chia Sẻ on Báo Cáo Thực Tập AWS Cloud</description>
+		<title>7. Chia Sẻ &amp; Phản Hồi on Báo Cáo Thực Tập AWS Cloud</title>
+		<link>http://localhost:1313/AWS-Internship-Report/vi/7-feedback/</link>
+		<description>Recent content in 7. Chia Sẻ &amp; Phản Hồi on Báo Cáo Thực Tập AWS Cloud</description>
 		<generator>Hugo</generator>
 		<language>vi</language>
 		
 		
 		
 		
-			<atom:link href="/vi/7-feedback/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/AWS-Internship-Report/vi/7-feedback/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

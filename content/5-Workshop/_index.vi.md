@@ -1,5 +1,5 @@
 ---
-title: "5. Thực Hành Cloud"
+title: "5. Workshop"
 weight: 5
 description: "Các bài thực hành labs và thiết kế kiến trúc đã hoàn thành."
 ---

@@ -16,7 +16,9 @@ profile:
   email: "congkhanh272200505@gmail.com"
   university: "FPT University"
   major: "Information Assurance"
+  class: "AWS082025"
   company: "Amazon Web Services Viet Nam"
   position: "Workforce Bootcamp - First Cloud AI Journey"
+  duration: "From 12/08/2025 to 12/11/2025"
 report_title: "Documentation Directory"
 ---

@@ -16,7 +16,9 @@ profile:
   email: "congkhanh272200505@gmail.com"
   university: "Đại học FPT"
   major: "An Toàn Thông Tin"
+  class: "AWS082025"
   company: "Công ty TNHH Amazon Web Services Viet Nam"
   position: "Workforce Bootcamp - First Cloud AI Journey"
+  duration: "Từ 12/08/2025 đến 12/11/2025"
 report_title: "Nội Dung Báo Cáo"
 ---

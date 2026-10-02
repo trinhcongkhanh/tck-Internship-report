@@ -1,5 +1,5 @@
 ---
-title: "6. Self-Evaluation"
+title: "6. Self-Assessment"
 weight: 6
 description: "Personal reflection on skills gained and areas for improvement."
 ---

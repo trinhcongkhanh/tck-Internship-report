@@ -1,5 +1,5 @@
 ---
-title: "2. Project Proposal"
+title: "2. Proposal"
 weight: 2
 description: "The initial architecture design and project proposal for the internship capstone."
 ---

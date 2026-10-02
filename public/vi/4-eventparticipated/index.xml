@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>4. Sự Kiện &amp; Hội Thảo on Báo Cáo Thực Tập AWS Cloud</title>
-		<link>/vi/4-eventparticipated/</link>
-		<description>Recent content in 4. Sự Kiện &amp; Hội Thảo on Báo Cáo Thực Tập AWS Cloud</description>
+		<title>4. Sự Kiện Tham Gia on Báo Cáo Thực Tập AWS Cloud</title>
+		<link>http://localhost:1313/AWS-Internship-Report/vi/4-eventparticipated/</link>
+		<description>Recent content in 4. Sự Kiện Tham Gia on Báo Cáo Thực Tập AWS Cloud</description>
 		<generator>Hugo</generator>
 		<language>vi</language>
 		
 		
 		
 		
-			<atom:link href="/vi/4-eventparticipated/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/AWS-Internship-Report/vi/4-eventparticipated/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: "7. Đánh Giá & Chia Sẻ"
+title: "7. Chia Sẻ & Phản Hồi"
 weight: 7
 description: "Phản hồi từ mentors và những chia sẻ cá nhân."
 ---

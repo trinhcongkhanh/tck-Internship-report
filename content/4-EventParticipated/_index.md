@@ -1,5 +1,5 @@
 ---
-title: "4. Events & Seminars"
+title: "4. Events Participated"
 weight: 4
 description: "AWS events, bootcamps, and seminars I participated in."
 ---

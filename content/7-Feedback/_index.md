@@ -1,5 +1,5 @@
 ---
-title: "7. Feedback & Sharing"
+title: "7. Sharing and Feedback"
 weight: 7
 description: "Feedback from mentors and personal thoughts to share."
 ---

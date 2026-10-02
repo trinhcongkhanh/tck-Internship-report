@@ -1,5 +1,5 @@
 ---
-title: "5. Cloud Workshops"
+title: "5. Workshop"
 weight: 5
 description: "Hands-on labs and architectural workshops completed."
 ---

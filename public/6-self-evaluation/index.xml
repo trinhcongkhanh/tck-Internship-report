@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>6. Self-Evaluation on AWS Cloud Internship Report</title>
-		<link>/6-self-evaluation/</link>
-		<description>Recent content in 6. Self-Evaluation on AWS Cloud Internship Report</description>
+		<title>6. Self-Assessment on AWS Cloud Internship Report</title>
+		<link>http://localhost:1313/AWS-Internship-Report/6-self-evaluation/</link>
+		<description>Recent content in 6. Self-Assessment on AWS Cloud Internship Report</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
-			<atom:link href="/6-self-evaluation/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/AWS-Internship-Report/6-self-evaluation/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: "3. Bài Viết Kỹ Thuật"
+title: "3. Bài Viết Đã Đăng"
 weight: 3
 description: "Các bài viết và hướng dẫn kỹ thuật tôi đã xuất bản trong thời gian thực tập."
 ---

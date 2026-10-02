@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>5. Cloud Workshops on AWS Cloud Internship Report</title>
-		<link>/5-workshop/</link>
-		<description>Recent content in 5. Cloud Workshops on AWS Cloud Internship Report</description>
+		<title>5. Workshop on AWS Cloud Internship Report</title>
+		<link>http://localhost:1313/AWS-Internship-Report/5-workshop/</link>
+		<description>Recent content in 5. Workshop on AWS Cloud Internship Report</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
-			<atom:link href="/5-workshop/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/AWS-Internship-Report/5-workshop/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lab 1: Cloud Infrastructure</title>
-				<link>/5-workshop/lab-1/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/5-workshop/lab-1/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-1/</guid>
 				<description>&lt;h1 id=&#34;cloud-infrastructure-lab&#34;&gt;Cloud Infrastructure Lab&lt;/h1&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Implement best practices for AWS Infrastructure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;implementation-steps&#34;&gt;Implementation steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Deploy base infrastructure using CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Configure security groups and NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Verify connectivity and access.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;A fully functional and secure environment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;&#xA;&lt;p&gt;Always apply the principle of least privilege.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 2: Cloud Security</title>
-				<link>/5-workshop/lab-2/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-2/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/5-workshop/lab-2/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-2/</guid>
 				<description>&lt;h1 id=&#34;cloud-security-lab&#34;&gt;Cloud Security Lab&lt;/h1&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Implement best practices for AWS Security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;implementation-steps&#34;&gt;Implementation steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Deploy base infrastructure using CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Configure security groups and NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Verify connectivity and access.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;A fully functional and secure environment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;&#xA;&lt;p&gt;Always apply the principle of least privilege.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 3: Cloud Networking</title>
-				<link>/5-workshop/lab-3/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-3/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/5-workshop/lab-3/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-3/</guid>
 				<description>&lt;h1 id=&#34;cloud-networking-lab&#34;&gt;Cloud Networking Lab&lt;/h1&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Implement best practices for AWS Networking.&lt;/p&gt;&#xA;&lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;implementation-steps&#34;&gt;Implementation steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Deploy base infrastructure using CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Configure security groups and NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Verify connectivity and access.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;A fully functional and secure environment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;&#xA;&lt;p&gt;Always apply the principle of least privilege.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 4: Cloud DevOps</title>
-				<link>/5-workshop/lab-4/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-4/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/5-workshop/lab-4/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/5-workshop/lab-4/</guid>
 				<description>&lt;h1 id=&#34;cloud-devops-lab&#34;&gt;Cloud DevOps Lab&lt;/h1&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Implement best practices for AWS DevOps.&lt;/p&gt;&#xA;&lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;implementation-steps&#34;&gt;Implementation steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Deploy base infrastructure using CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Configure security groups and NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Verify connectivity and access.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;A fully functional and secure environment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;&#xA;&lt;p&gt;Always apply the principle of least privilege.&lt;/p&gt;</description>
 			</item>
 	</channel>

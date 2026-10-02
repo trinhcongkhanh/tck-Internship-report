@@ -1,5 +1,5 @@
 ---
-title: "4. Sự Kiện & Hội Thảo"
+title: "4. Sự Kiện Tham Gia"
 weight: 4
 description: "Các sự kiện AWS, bootcamps và hội thảo tôi đã tham gia."
 ---

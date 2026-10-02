@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>5. Thực Hành Cloud on Báo Cáo Thực Tập AWS Cloud</title>
-		<link>/vi/5-workshop/</link>
-		<description>Recent content in 5. Thực Hành Cloud on Báo Cáo Thực Tập AWS Cloud</description>
+		<title>5. Workshop on Báo Cáo Thực Tập AWS Cloud</title>
+		<link>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/</link>
+		<description>Recent content in 5. Workshop on Báo Cáo Thực Tập AWS Cloud</description>
 		<generator>Hugo</generator>
 		<language>vi</language>
 		
 		
 		
 		
-			<atom:link href="/vi/5-workshop/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/AWS-Internship-Report/vi/5-workshop/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lab 1: Cloud Infrastructure</title>
-				<link>/vi/5-workshop/lab-1/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/vi/5-workshop/lab-1/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-1/</guid>
 				<description>&lt;h1 id=&#34;lab-thực-hành-cloud-infrastructure&#34;&gt;Lab Thực Hành: Cloud Infrastructure&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Triển khai các phương pháp hay nhất cho AWS Infrastructure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;môi-trường&#34;&gt;Môi trường&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;các-bước-thực-hiện&#34;&gt;Các bước thực hiện&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Triển khai hạ tầng cơ bản bằng CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình security groups và NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Kiểm tra kết nối và quyền truy cập.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-quả&#34;&gt;Kết quả&lt;/h2&gt;&#xA;&lt;p&gt;Một môi trường hoàn chỉnh và bảo mật.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bài-học-rút-ra&#34;&gt;Bài học rút ra&lt;/h2&gt;&#xA;&lt;p&gt;Luôn áp dụng nguyên tắc đặc quyền tối thiểu.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 2: Cloud Security</title>
-				<link>/vi/5-workshop/lab-2/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-2/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/vi/5-workshop/lab-2/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-2/</guid>
 				<description>&lt;h1 id=&#34;lab-thực-hành-cloud-security&#34;&gt;Lab Thực Hành: Cloud Security&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Triển khai các phương pháp hay nhất cho AWS Security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;môi-trường&#34;&gt;Môi trường&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;các-bước-thực-hiện&#34;&gt;Các bước thực hiện&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Triển khai hạ tầng cơ bản bằng CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình security groups và NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Kiểm tra kết nối và quyền truy cập.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-quả&#34;&gt;Kết quả&lt;/h2&gt;&#xA;&lt;p&gt;Một môi trường hoàn chỉnh và bảo mật.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bài-học-rút-ra&#34;&gt;Bài học rút ra&lt;/h2&gt;&#xA;&lt;p&gt;Luôn áp dụng nguyên tắc đặc quyền tối thiểu.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 3: Cloud Networking</title>
-				<link>/vi/5-workshop/lab-3/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-3/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/vi/5-workshop/lab-3/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-3/</guid>
 				<description>&lt;h1 id=&#34;lab-thực-hành-cloud-networking&#34;&gt;Lab Thực Hành: Cloud Networking&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Triển khai các phương pháp hay nhất cho AWS Networking.&lt;/p&gt;&#xA;&lt;h2 id=&#34;môi-trường&#34;&gt;Môi trường&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;các-bước-thực-hiện&#34;&gt;Các bước thực hiện&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Triển khai hạ tầng cơ bản bằng CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình security groups và NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Kiểm tra kết nối và quyền truy cập.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-quả&#34;&gt;Kết quả&lt;/h2&gt;&#xA;&lt;p&gt;Một môi trường hoàn chỉnh và bảo mật.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bài-học-rút-ra&#34;&gt;Bài học rút ra&lt;/h2&gt;&#xA;&lt;p&gt;Luôn áp dụng nguyên tắc đặc quyền tối thiểu.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lab 4: Cloud DevOps</title>
-				<link>/vi/5-workshop/lab-4/</link>
+				<link>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-4/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/vi/5-workshop/lab-4/</guid>
+				<guid>http://localhost:1313/AWS-Internship-Report/vi/5-workshop/lab-4/</guid>
 				<description>&lt;h1 id=&#34;lab-thực-hành-cloud-devops&#34;&gt;Lab Thực Hành: Cloud DevOps&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Triển khai các phương pháp hay nhất cho AWS DevOps.&lt;/p&gt;&#xA;&lt;h2 id=&#34;môi-trường&#34;&gt;Môi trường&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VPC, Subnets, EC2, IAM Roles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;các-bước-thực-hiện&#34;&gt;Các bước thực hiện&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Triển khai hạ tầng cơ bản bằng CloudFormation.&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình security groups và NACLs.&lt;/li&gt;&#xA;&lt;li&gt;Kiểm tra kết nối và quyền truy cập.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-quả&#34;&gt;Kết quả&lt;/h2&gt;&#xA;&lt;p&gt;Một môi trường hoàn chỉnh và bảo mật.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bài-học-rút-ra&#34;&gt;Bài học rút ra&lt;/h2&gt;&#xA;&lt;p&gt;Luôn áp dụng nguyên tắc đặc quyền tối thiểu.&lt;/p&gt;</description>
 			</item>
 	</channel>
